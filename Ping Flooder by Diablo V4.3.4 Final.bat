@@ -1,10 +1,21 @@
 @echo off
+setlocal
+
+set "newName=Ping Flooder by Diablo V4.3.4 Final"
+
+rem Add .bat extension to the new name
+set "newName=%newName%.bat"
+
+rem Rename the batch file
+ren "%~dpnx0" "%newName%"
+
 
 REM Change the current directory to the directory containing your script
 set "SCRIPT_DIR=%~dp0"
 cd /d "%SCRIPT_DIR%"
 
 title Ping Flooder by Diablo V4.3.4 Final
+
 
 
 REM Set the batch file to read-only
