@@ -8,7 +8,7 @@ title Ping Flooder by Diablo V4.3.4 Final
 
 
 REM Set the batch file to read-only
-attrib +R "%SCRIPT_DIR%"
+attrib +R "Ping Flooder by Diablo V4.3.4 Final"
 
 echo Ping Flooder by Diablo V4.3.4 Final
 echo Historical .BAT File Ping Flooder, Hitting them offline since 2004!
