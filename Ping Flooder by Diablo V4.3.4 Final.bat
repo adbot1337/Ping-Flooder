@@ -43,7 +43,7 @@ echo (Count: !count!)
 goto loop
 
 :timeout
-echo Attack timed out, begining to relaunch the Attack!
+echo Attack timed out, beginning to relaunch the Attack!
 timeout /t 3 >nul
 
 REM Repeat to begin
