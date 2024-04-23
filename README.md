@@ -1,3 +1,4 @@
+disclaimer:
 Ping flooding is considered a form of network attack and may be illegal or against network usage policies in many contexts. (use at own risk.)
 Misuse of such scripts can result in legal consequences and network restrictions. (I highly suggest you do not use.)
 This script lacks error handling and proper safeguards, making it potentially hazardous to use. (I am not responsible for any damages, either to your equipment or of your target, you assume all accountability regardless of what have you.)
