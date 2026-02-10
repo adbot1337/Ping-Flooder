@@ -51,3 +51,5 @@ echo Attack timed out, beginning to relaunch the Attack!
 timeout /t 3 >nul
 
 goto begin
+
+exit
