@@ -1,5 +1,5 @@
 disclaimer:
-Ping flooding is considered a form of network attack and may be illegal or against network usage policies in many contexts. (USE AT OWN RISK.)
+Ping flooding is considered a form of network attack and is illegal or against network usage policies in many contexts. (USE AT OWN RISK.)
 
 Misuse of such scripts can result in legal consequences and network restrictions. (I HIGHLY SUGGEST YOU DO NOT USE.)
 
