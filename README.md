@@ -3,7 +3,7 @@ Ping flooding is considered a form of network attack and is illegal also against
 
 Misuse of such scripts can result in legal consequences and network restrictions. (I HIGHLY SUGGEST YOU DO NOT USE.)
 
-This script lacks error handling and proper safeguards, making it potentially hazardous to use. (I AM NOT RESPONSIBLE FOR ANY DAMAGES, EITHER TO YOUR OR OF YOUR TARGET, YOU ASSUME ALL ACCOUNTABILITY REGARDLESS OF WHAT HAVE YOU.)
+This script lacks error handling and proper safeguards, making it potentially hazardous to use. (I AM NOT RESPONSIBLE FOR ANY DAMAGES, EITHER TO YOURSELF OR OF YOUR TARGET, YOU ASSUME ALL ACCOUNTABILITY REGARDLESS OF WHAT HAVE YOU.)
 
 I highly doubt this 2 decade old method of attack will do anything in the modern age, however thought i'd share a relic of the days of old, back in the gears of war 3 days or the halo reach days, black ops 2 etc...
 
